@@ -1,0 +1,14 @@
+Which command walks a file hierarchy in search of a keyword?
+
+find
+Which command displays information about processes running on your machine?
+
+ps aux
+top
+Which command terminates a process?
+
+Ctrl+C
+kill -9 pid
+Which command can help you find the difference between two files?
+
+diff
